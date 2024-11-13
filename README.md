@@ -10,7 +10,8 @@ Any letters that return grey mean they are not in the target word at all.
 Link to play: https://tyywells.github.io/wordle/
 
 Technologies used to develope this game were HTML, CSS, and Javascript.
+
 Next steps to improve this game would be the addition of a visual keyboard on screen for players to keep track of which letters they have already guessed, including the feedback
-of the letter turning green, yellow, or grey.
+of the letter turning green, yellow, or grey. An onscreen keyboard would also make this game playable for mobile players as currently a keyboard is required for input.
 
 Attributions: to develop this game I employed an array of all five letter words in the Merriam-Webster dictionary.
